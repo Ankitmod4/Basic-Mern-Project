@@ -1,0 +1,30 @@
+.form{
+  background-color: green;
+  width: 60vh;
+  height: 30vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+   border-radius: 10px;
+} 
+.kot{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vw;
+} 
+.input{
+  padding: 20px;
+  margin: 15px;
+}
+.button{
+  margin: 15px;
+  padding: 12px;
+  border-radius: 7px; 
+  width: 80px;
+  cursor: pointer;
+}
+.btn{
+  display: flex;
+  justify-content: center;
+}
